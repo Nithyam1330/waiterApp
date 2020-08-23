@@ -1,0 +1,7 @@
+{
+  "name": "waiterApp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
